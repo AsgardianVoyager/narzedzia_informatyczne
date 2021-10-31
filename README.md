@@ -28,4 +28,4 @@ X | Y | Z
 Something | Something else | Nothing
 More of something | ... | ...
 ### Image
-![Image of a cat](animal\cat.jpg)
+![Image of a cat](animal/cat.jpg)
