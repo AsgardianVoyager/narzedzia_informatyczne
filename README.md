@@ -30,3 +30,4 @@ More of something | ... | ...
 ### Image
 ![Image of a cat](animal/cat.jpg)
 ![Image of a dog](animal/dog.jpg)
+![Iamge of a crab](animal/crab.jpg)
